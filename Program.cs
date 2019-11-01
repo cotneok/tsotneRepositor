@@ -3,5 +3,6 @@ using System;
 public static void Main(string[] args)
 { 
 	Console.WriteLine("Hello.");
+	Console.ReadLine();
 }
 vitaliis test
